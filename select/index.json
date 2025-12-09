@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "プランA",
+  "base_artist": "DISH//",
+  "createdAt": "2025-12-09T07:34:15.056718Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プランA",
+      "artist": "DISH//",
+      "has_synced": true,
+      "path": "select/01_プランA_DISH.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プランA - PLAN A",
+      "artist": "DISH//",
+      "has_synced": true,
+      "path": "select/02_プランA_-_PLAN_A_DISH.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プランA",
+      "artist": "DISH⁄⁄",
+      "has_synced": true,
+      "path": "select/03_プランA_DISH⁄⁄.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DISH// - プランA [Official Video]｜TVアニメ「逃げ上手の若君」 オープニングテーマ",
+      "artist": "DISH",
+      "has_synced": true,
+      "path": "select/04_DISH__-_プランA_[Official_Video]_TVアニメ「逃げ上手の若君」_オープニングテーマ_DISH.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プランA",
+      "artist": "DISH//",
+      "has_synced": false,
+      "path": "select/pl_01_プランA_DISH.txt"
+    }
+  ]
+}
